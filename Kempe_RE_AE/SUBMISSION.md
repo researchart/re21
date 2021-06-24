@@ -16,7 +16,7 @@ starting point for a similar interview study.
 You can find a copy of the artifacts in the following places:
 
 * GitHub: https://github.com/ekempe1/re21/tree/main/Kempe_RE_AE
-* Figshare: TODO insert Figshare url
+* Figshare DOI: 10.6084/m9.figshare.14842242
 
 
 ## Pre-Print Location
