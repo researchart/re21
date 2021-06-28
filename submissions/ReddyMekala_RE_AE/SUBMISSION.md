@@ -1,0 +1,9 @@
+# Requested Badges
+Available: We believe our artifact deserves the Available badge because we have made it permanently and irrevocably available through Figshare (see below).
+
+# Artifacts Location
+* Our artifact is available on Figshare: [Link Here](https://figshare.com/s/c77abf348bd112868dbf)
+* We kindly ask the reviewers for their understanding for the following: Due to personal circumstances of the co-author who created this private link, it is not yet a de-anonymized public link. We expect to have resolved this before our Camera-Ready submission.
+
+# Pre-Print Location
+You can obtain our pre-print via Dropbox: [Link Here](https://www.dropbox.com/s/8qdjwrx1crjk7lg/PREPRINT_RE21_ReddyMekala_Classifying_User_Requirements.pdf?dl=0)
