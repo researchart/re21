@@ -31,9 +31,9 @@ BAS Case include:
 
 ### Artifacts Location
 
-https://github.com/ZacharyZhao55/UAV-REQ-DomainModel
+https://zenodo.org/badge/latestdoi/379543441
 
-https://github.com/ZacharyZhao55/BAS-REQ-DomainModel
+https://zenodo.org/badge/latestdoi/379543441
 
 ### Article Title
 
