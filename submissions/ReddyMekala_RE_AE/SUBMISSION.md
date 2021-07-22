@@ -1,5 +1,6 @@
 # Requested Badges
-Available: We believe our artifact deserves the Available badge because we have made it permanently and irrevocably available through Figshare (see below).
+* Available: We believe our artifact deserves the Available badge because we have made it permanently and irrevocably available through Figshare (see below).
+* Reusable: We have added a README.md and LICENSE.md. In the former, we have included the sections prescribed in the submission instructions. (Note: this request for the Reusable badge was made later, on 22 July 2021.)
 
 # Artifacts Location
 * Our artifact is available on Figshare: [Link Here](https://figshare.com/s/c77abf348bd112868dbf)
